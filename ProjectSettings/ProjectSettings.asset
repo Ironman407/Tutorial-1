@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: e5a7b14c036e42c4f90c45909aef2064
+  productGUID: 55d676cd5b02bfc4aaaf70b19592f5d9
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Mini Game
+  productName: Tutorial 1
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -648,8 +648,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 6fc9daf5-78a6-402e-94da-34f8c1472701
-  projectName: Mini Game
+  cloudProjectId: 769c3fe9-7e62-4ee0-984c-cacce6a568c7
+  projectName: Tutorial 1
   organizationId: ironman352
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
